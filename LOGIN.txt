@@ -2,6 +2,9 @@ USUÁRIO: (digite seu usuário)
 
 SENHA: (digite sua senha)
 
+<<<<<<< HEAD
 (CONFIRME SE É ROBO OU NÃO)
 
+=======
+>>>>>>> LOGIN
 ENTRAR
