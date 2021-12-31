@@ -1,5 +1,0 @@
-USUÁRIO: (digite seu usuário)
-
-SENHA: (digite sua senha)
-
-ENTRAR
